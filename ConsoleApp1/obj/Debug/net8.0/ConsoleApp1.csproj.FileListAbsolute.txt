@@ -1,0 +1,14 @@
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
