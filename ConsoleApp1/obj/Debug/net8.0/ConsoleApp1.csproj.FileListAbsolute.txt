@@ -12,3 +12,4 @@
 /Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/veihitupai/Documents/GitHub/cse325-firstcsharpcode/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
